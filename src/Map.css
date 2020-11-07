@@ -24,14 +24,15 @@
 }
 
 .info-flag {
-    height: 80px;
+    height: 120px;
     width: 100%;
     background-size: cover;
     border-radius: 8px;
 }
 
 .info-container{
-    width: 180px;
+    width: 200px;
+    height: auto;
 }
 
 .info-confirmed,
